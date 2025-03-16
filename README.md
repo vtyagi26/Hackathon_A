@@ -21,7 +21,7 @@ Provides insights on wastage trends, helping businesses minimize future waste.
 Installation Guide
 Clone the Repository
 
-git clone https://github.com/vtyagi26/Hackathon_A.git
+git clone https://github.com/vtyagi26/Hackathon_A
 cd foodbridge
 Backend Setup
 
