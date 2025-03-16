@@ -22,9 +22,10 @@ Installation Guide
 Clone the Repository
 
 git clone https://github.com/vtyagi26/Hackathon_A
-cd foodbridge
-Backend Setup
+cd Hackathon_A
 
+
+Backend Setup
 Navigate to the ML folder:
 cd ML
 Install dependencies:
